@@ -6,9 +6,16 @@ $navbar-default-brand-color: 				#6BB9F0;
 $brand-primary: 										#6BB9F0;
 $jumbotron-bg: 											white;
 
+
+
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 @import "bootstrap-sprockets";
 @import "bootstrap";
-@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+
+
 
 .panel {
 	max-width: 450px;

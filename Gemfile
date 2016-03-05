@@ -34,6 +34,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap-sass', '~> 3.3.6'
 # Use devise for user accounts and authentication 
 gem 'devise'
+# Use font-awesome for fonts
+gem 'font-awesome-sass'
 
 
 group :development, :test do
