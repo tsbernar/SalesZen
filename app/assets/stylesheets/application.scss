@@ -15,8 +15,6 @@ $jumbotron-bg: 											white;
 @import "font-awesome";
 
 
-
-
 .panel {
 	max-width: 450px;
 	margin-left: auto !important;
@@ -25,4 +23,10 @@ $jumbotron-bg: 											white;
 
 .center {
 	text-align: center;
+}
+
+.alert {
+    padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
 }
